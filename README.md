@@ -22,4 +22,4 @@ Run program
 python3 main.py
 ```
 
-Upload converted file somewhere where you can reach it from Google Calendar of whatever you are using.
+Upload converted file (**calendar_out.vcal**) somewhere where you can reach it from Google Calendar of whatever you are using.
